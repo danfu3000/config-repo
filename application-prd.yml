@@ -1,1 +1,2 @@
-name: prd
+config:
+  name: prd
